@@ -1,2 +1,4 @@
 # Python-infostealer-leak
-Badly hidden infostealer mentioned from @EricParker on youtube
+# Disclaimer 
+I am not responsible for any damage caused by this malware. This code is provided for educational purposes and is believed to be the same sample discussed in @ericparkers's YouTube video on open-source malware. Use at your own risk."
+Make sure to review GitHub's policies to ensure that your content complies with their terms of service!
